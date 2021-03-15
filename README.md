@@ -1,5 +1,5 @@
 ## How to solve this challenge?
-
+Singly-Linked-List
 1. Read the "Challenge description" below.
 2. Make changes to the [challenge.rb](./challenge.rb) file.
 3. Commit your changes.
